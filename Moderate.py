@@ -1,6 +1,9 @@
+#All the moderate questions can be found here along with the switch cases from moderate to other mood levels.
 #Moderate.
+#import the data of books and movies from the bookmoviedata
 from bookmoviedata import Moderate
 
+#All set of questions with mark scheme and with switch cases which whole is going to be in backend.
 mark=0
 class Moderate_Questions():
     def __init__(self):
