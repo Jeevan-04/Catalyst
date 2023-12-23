@@ -1,7 +1,10 @@
+#the main file where the code is gonna be executed.
+#import all the necessary bunch of code for execution.
 import threading
 from song import *
 from login import *
 
+#the main first question which gonna start analyze about the user's mindset and current emotion.
 def ask():
     a = (int(input("""What's your energy level like right now?
 1.I'm ready to conquer the world!
@@ -20,6 +23,7 @@ def ask():
     else:
         ask()
 
+#Threading for te music to go on side by side alng with the flow for the mood and setting.
 song_thread = threading.Thread(target=song)
 ask_thread = threading.Thread(target=ask)
 print()
