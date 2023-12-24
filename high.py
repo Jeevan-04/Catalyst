@@ -1,4 +1,6 @@
+#import the data from the batabase.
 from bookmoviedata import High
+#the questions of the high level mood along with the marking scheme and also the switch cases.
 mark=0
 class High_Questions():
     def __init__(self):
