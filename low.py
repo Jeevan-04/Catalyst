@@ -1,8 +1,9 @@
-
+#import the necessary data according to the mood.
 from bookmoviedata import Low
 # low energy switch
 
 # low   \
+#low question and their mark scheme and also along with the switch cases so that for mood changing situaion the user get proper desired output.
 point=0
 class Low_Questions: 
     
