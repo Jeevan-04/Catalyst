@@ -1,3 +1,4 @@
+#the code for the login page which is the starting phase along with the admin login info.
 def signin():
     print("create Account:")
     username = input("Create Useranme:")
