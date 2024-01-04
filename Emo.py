@@ -23,7 +23,7 @@ def ask():
     else:
         ask()
 
-#Threading for te music to go on side by side alng with the flow for the mood and setting.
+#Threading for the music to go on side by side along with the flow for the mood and setting.
 song_thread = threading.Thread(target=song)
 ask_thread = threading.Thread(target=ask)
 print()
