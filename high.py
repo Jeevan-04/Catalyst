@@ -1,4 +1,4 @@
-#import the data from the batabase.
+#import the data from the database.
 from bookmoviedata import High
 #the questions of the high level mood along with the marking scheme and also the switch cases.
 mark=0
