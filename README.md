@@ -4,3 +4,6 @@ SRS LINK [CANVA VIEW(Better Experience)].:
 
 Document.:
 https://docs.google.com/document/d/1VBSw1xBcWBIlgyXsuE3OcGmKQlbimAznUnp-RyU3kBs/edit
+
+
+CATALYST is a revolutionary application that acts as your personal genie for all your literary and cinematic desires. It goes beyond simple recommendation engines, delving deep into your emotions and preferences to curate a treasure trove of captivating books and movies perfectly tailored to your mood and taste.No more endless scrolling
