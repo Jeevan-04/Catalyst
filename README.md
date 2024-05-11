@@ -1,4 +1,4 @@
-`SRS LINK [CANVA VIEW(Better Experience)].:`
+`SRS LINK [CANVA VIEW].:`
 <a href="[https://www.canva.com/design/DAF3EqrdRY8/MEJm7r7NL5R74_CzhSd77Q/edit?utm_content=DAF3EqrdRY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF3EqrdRY8/MEJm7r7NL5R74_CzhSd77Q/edit?utm_content=DAF3EqrdRY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)https://www.canva.com/design/DAF3EqrdRY8/MEJm7r7NL5R74_CzhSd77Q/edit?utm_content=DAF3EqrdRY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4P2l6M64Weai0P2FsGncFjsrAz8etMlLD8eymvrUyhg&s" height="20" width="20" alt="SRS"></a>
 
 
